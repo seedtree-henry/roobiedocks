@@ -1,0 +1,2 @@
+The first challenge is that how I can apply ruby programming skills into web development.
+The second concern is learning on arrays and hashes. These two concepts are hard to apply.
